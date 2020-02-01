@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 6312ca5e62f74ec4ca5934640fd09f92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2286316260709495599
+    second: BlackWater_Pond_0
+  - first:
+      213: -3884503473497955330
+    second: BlackWater_Pond_1
+  - first:
+      213: -1666169699936884558
+    second: BlackWater_Pond_2
+  - first:
+      213: -1081862064238040347
+    second: BlackWater_Pond_3
+  - first:
+      213: 1211877795331654829
+    second: BlackWater_Pond_4
+  - first:
+      213: -3325843992406012381
+    second: BlackWater_Pond_5
+  - first:
+      213: 993736335228853118
+    second: BlackWater_Pond_6
+  - first:
+      213: 6326059713778471673
+    second: BlackWater_Pond_7
+  - first:
+      213: 7729791844750075974
+    second: BlackWater_Pond_8
+  - first:
+      213: -1974720673808499823
+    second: BlackWater_Pond_9
+  - first:
+      213: 5407767612124982874
+    second: BlackWater_Pond_10
+  - first:
+      213: 1736390074974108375
+    second: BlackWater_Pond_11
+  - first:
+      213: 4395334777631204088
+    second: BlackWater_Pond_12
+  - first:
+      213: 6762738171525280489
+    second: BlackWater_Pond_13
+  - first:
+      213: 483577489751305769
+    second: BlackWater_Pond_14
+  - first:
+      213: -4288845924016796737
+    second: BlackWater_Pond_15
+  - first:
+      213: -3779310981463194916
+    second: BlackWater_Pond_16
+  - first:
+      213: -7158448728849116486
+    second: BlackWater_Pond_17
+  - first:
+      213: -7762052281140581572
+    second: BlackWater_Pond_18
+  - first:
+      213: -6565641586914557732
+    second: BlackWater_Pond_19
+  - first:
+      213: 3026968179839010612
+    second: BlackWater_Pond_20
+  - first:
+      213: 8708805996613472989
+    second: BlackWater_Pond_21
+  - first:
+      213: -5093739639967974546
+    second: BlackWater_Pond_22
+  - first:
+      213: -58022276301947975
+    second: BlackWater_Pond_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackWater_Pond_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 291
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8db98b6a98d1e449800ccd7469f2df
+      internalID: -2286316260709495599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 291
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a912f6286f4124dbc692b2a268efed
+      internalID: -3884503473497955330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 291
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644bf94504881c458b5a78aa2942a6d
+      internalID: -1666169699936884558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 250
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab68d436357a24cb86a8346b711409
+      internalID: -1081862064238040347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 250
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc05c6fc572ea408fdd2ef46bf27c7
+      internalID: 1211877795331654829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 250
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ab82e999acb940966eb9885de6b53
+      internalID: -3325843992406012381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 209
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb834b09750f2744a3660fa4874559c
+      internalID: 993736335228853118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 209
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530a95cea1f9c54a9ac39870da6612b
+      internalID: 6326059713778471673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 209
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6808c4da5925c144bbb1a5ad75e0558e
+      internalID: 7729791844750075974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86daee0fa218ca541ba11b876585f6c6
+      internalID: -1974720673808499823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 168
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1b665c87d4b7c40a9ba3da6eb6a54d
+      internalID: 5407767612124982874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 168
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7ac5c6126fe0141a569eb74902f227
+      internalID: 1736390074974108375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04579d5203c7c764e99208b5b315de7d
+      internalID: 4395334777631204088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b21a4e529116aa449c3f0377a7043a4
+      internalID: 6762738171525280489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011fd7179435414a8e9ca6e55b210c6
+      internalID: 483577489751305769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 86
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d4d2a464597e41ad3bb39b6ee87d3
+      internalID: -4288845924016796737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 86
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ccaa15e1e8c7c4c92b7c72c061426d
+      internalID: -3779310981463194916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 86
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a3c81f95a5f33439486a60ab51450d
+      internalID: -7158448728849116486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b36ce9819bd7a48aede8bc801d6578
+      internalID: -7762052281140581572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 45
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab163af4b718d274598995c7316c4a9a
+      internalID: -6565641586914557732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 45
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb51f8f90d4f3479ed04b7a4fc3e32
+      internalID: 3026968179839010612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b09952d4cc599438b0217034a7a526
+      internalID: 8708805996613472989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13aae017d42c7448059d761784d858
+      internalID: -5093739639967974546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackWater_Pond_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 4
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3205c57d495623348b80af62c3862623
+      internalID: -58022276301947975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
