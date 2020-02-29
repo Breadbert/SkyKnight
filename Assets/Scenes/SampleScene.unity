@@ -328,6 +328,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -435,6 +436,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f91d742f3be083418c26878ab8255c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TransitionMaterial: {fileID: 2100000, guid: 7624d611bd330e44b80ef65275598a16, type: 2}
 --- !u!1 &619235685
 GameObject:
   m_ObjectHideFlags: 0
@@ -1265,6 +1279,7 @@ MonoBehaviour:
   BattleCamera: {fileID: 1920234764}
   PlayerCamera: {fileID: 1048520690}
   Player: {fileID: 0}
+  material: {fileID: 2100000, guid: 7624d611bd330e44b80ef65275598a16, type: 2}
   EnemyPodium: {fileID: 505449657}
   PlayerPodium: {fileID: 1018411754}
 --- !u!4 &1579257045
@@ -1331,6 +1346,7 @@ MonoBehaviour:
   - {fileID: 1453449758}
   - {fileID: 619235686}
   moveSpeed: 1
+  AngryMoveSpeed: 3.5
   initWaitTime: 2
   rigidBody: {fileID: 0}
   enemy: {fileID: 0}

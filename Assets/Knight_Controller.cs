@@ -17,7 +17,7 @@ public class Knight_Controller : MonoBehaviour
         PlayerPosition = new Vector2(transform.position.x, transform.position.y);
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (!isInCombat)
         {

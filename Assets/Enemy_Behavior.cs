@@ -139,11 +139,6 @@ public class Enemy_Behavior : Enemy
         anim.SetBool(direction, true);
     }
 
-    void ResetBool(string direction)
-    {
-        anim.SetBool(direction, false);
-    }
-
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.GetComponent<Knight_Controller>())
