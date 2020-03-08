@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Enemy_Behavior : Enemy
 { // Inherits the stats from Enemy.cs
