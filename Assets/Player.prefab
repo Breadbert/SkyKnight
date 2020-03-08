@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Dandy Chiggins
-  HP: 30
+  HP: 10
   MaxHP: 25
   Level: 1
   Damage: 5

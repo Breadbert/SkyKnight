@@ -58,7 +58,7 @@ public class BattleManager : MonoBehaviour
         GameObject enemyGO = Instantiate(EnemyPrefab, EnemyPodium);
         enemyUnit = enemyGO.GetComponent<Enemy>();
 
-        dialogueText.text = "A wild " + enemyUnit.Name + " approaches...";
+        dialogueText.text = ("A wild " + enemyUnit.Name + " approaches...");
 
         playerHUD.SetHUD(playerUnit);
         enemyHUD.SetHUD(enemyUnit);
